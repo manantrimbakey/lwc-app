@@ -1,6 +1,7 @@
 # lwc-app
 
 Here will be some information about the app.
+Boilerplate with enabled SLDS
 
 ## How to start?
 
